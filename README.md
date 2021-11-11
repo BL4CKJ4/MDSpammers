@@ -30,6 +30,7 @@ Medium spammers dengan 30 Tools Spammers (SMS,Call,Wa).
 - temanprima
 - maripinjam
 - sobatbangun
+- anakkecil
 ```
 # Requirements
 ```
